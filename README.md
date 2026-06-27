@@ -98,7 +98,7 @@ House-Price-Predictor/
 ├── .gitignore
 │
 ├── screenshots/
-│   ├── workflow.png
+│   |
 │   ├── prediction_output.png
 │   └── evaluation_metrics.png
 │
